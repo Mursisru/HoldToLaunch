@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+*.user
+release/*.zip
+release/*.dll
+Directory.Build.user.props
