@@ -7,11 +7,6 @@
 [![Version](https://img.shields.io/badge/Version-1.0.0-green)](https://github.com/Mursisru/HoldToLaunch/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/Mursisru/HoldToLaunch/blob/main/LICENSE)
 
-MP-safe **QoL** mod for **[Nuclear Option](https://store.steampowered.com/app/2168680/Nuclear_Option/)**: requires holding **Fire** before missile/bomb release. Guns can be limited to realistic burst length. **Client-side gate only** — no custom network RPCs, no server authority changes.
-
-**Plugin GUID:** `com.at747.holdtolaunch`  
-**Version:** `1.0.0`
-
 ---
 
 ## Critical warnings
@@ -21,6 +16,11 @@ MP-safe **QoL** mod for **[Nuclear Option](https://store.steampowered.com/app/21
 
 > [!NOTE]
 > **Multiplayer safe** - client-side gate only; no custom `Cmd*` / `Rpc*`; release still goes through vanilla `WeaponManager.Fire`.
+
+MP-safe **QoL** mod for **[Nuclear Option](https://store.steampowered.com/app/2168680/Nuclear_Option/)**: requires holding **Fire** before missile/bomb release. Guns can be limited to realistic burst length. **Client-side gate only** — no custom network RPCs, no server authority changes.
+
+**Plugin GUID:** `com.at747.holdtolaunch`  
+**Version:** `1.0.0`
 
 ## Table of contents
 
