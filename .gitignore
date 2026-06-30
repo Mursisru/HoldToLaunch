@@ -2,6 +2,12 @@ bin/
 obj/
 .vs/
 *.user
-release/*.zip
-release/*.dll
+libs/
+Directory.Build.props
 Directory.Build.user.props
+.cursorrules
+.cursor/
+ffmpeg.exe
+local_build_scripts/
+_buildroot/
+.debug/

@@ -1,9 +1,10 @@
 # Changelog
 
-## 1.0.0 — 2026-05-30
+## [1.0.0] - 2026-06-30
 
-### Performance
-- HoldToLaunchConfigCache: BepInEx settings cached once per frame in ShouldAllowFire (no gate logic change).
+### Changed
+- Documentation refresh: Developer header, badges, GitHub Alerts, Keywords, gitignore hygiene.
+
 
 ## 1.0.0 Build DEV1H8
 

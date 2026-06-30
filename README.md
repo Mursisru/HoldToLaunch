@@ -1,4 +1,9 @@
+**Developer:** Mursisru
+
 # Hold To Launch
+
+[![Nuclear Option](https://img.shields.io/badge/Game-Nuclear%20Option-blue)](https://store.steampowered.com/app/2168680/Nuclear_Option/) [![BepInEx 5](https://img.shields.io/badge/Loader-BepInEx%205-orange)](https://docs.bepinex.dev/) [![Version](https://img.shields.io/badge/Version-1.0.0-green)]() [![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
+
 
 MP-safe QoL mod for Nuclear Option.
 
@@ -19,3 +24,9 @@ MP-safe QoL mod for Nuclear Option.
 5. Multiplayer safety check:
    - mod sends no custom `Cmd*`/`Rpc*`;
    - actual launch still occurs only through vanilla `Pilot.Fire -> WeaponManager.Fire`.
+
+---
+
+## Keywords
+
+nuclear-option, bepinex, harmony, mod, holdtolaunch, csharp, unity
