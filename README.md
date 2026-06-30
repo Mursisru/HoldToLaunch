@@ -14,8 +14,17 @@ MP-safe **QoL** mod for **[Nuclear Option](https://store.steampowered.com/app/21
 
 ---
 
+## Critical warnings
+
+> [!IMPORTANT]
+> **BepInEx 5 (x64) required** - install [BepInEx](https://docs.bepinex.dev/articles/user_guide/installation/index.html) before this mod.
+
+> [!NOTE]
+> **Multiplayer safe** - client-side gate only; no custom `Cmd*` / `Rpc*`; release still goes through vanilla `WeaponManager.Fire`.
+
 ## Table of contents
 
+- [Critical warnings](#critical-warnings)
 - [Features](#features)
 - [Requirements](#requirements)
 - [Install](#install)
@@ -23,8 +32,6 @@ MP-safe **QoL** mod for **[Nuclear Option](https://store.steampowered.com/app/21
 - [Validation checklist](#validation-checklist-spmp)
 - [Build](#build)
 - [License](#license)
-
----
 
 ## Features
 
